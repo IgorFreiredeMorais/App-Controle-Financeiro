@@ -61,4 +61,10 @@ export const ErrorContainer = styled.div`
   color: white;
   padding: 10px;
   border-radius: 5px;
+  margin-top: 1rem;
+
+  @media (max-width: 1050px) {
+    margin-top: 2.8rem;
+    font-size: 12px;
+  }
 `;

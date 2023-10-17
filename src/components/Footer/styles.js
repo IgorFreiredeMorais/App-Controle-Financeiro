@@ -9,14 +9,14 @@ export const footer = styled.div`
 
 export const title = styled.p`
   margin: 0;
-  color: white;
+  color: black;
   font-size: 15px;
   font-family: "Ubuntu", sans-serif;
 `;
 
 export const icones = styled.a`
   font-size: 20px;
-  color: #fff;
+  color: black;
   text-decoration: none;
   margin: 2px 2px;
 `;
