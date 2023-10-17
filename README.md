@@ -2,4 +2,4 @@
 
 ## App para controle financeiro pessoal.
 
-[App controle Financeiro](https://clima-app-dun.vercel.app "Link para o site")
+[App controle Financeiro](https://app-controle-financeiro-beta.vercel.app "Link para o site")
